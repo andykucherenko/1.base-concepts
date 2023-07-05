@@ -45,7 +45,7 @@
 * Ввод: 15, 0, 10000, 36. Вывод: 12479.52
 
 ## Результат при правильном решении задания
-![графическое представление](../Jasmine/results/sucessed_tasks_1.png)
+![графическое представление](https://github.com/netology-code/bjs-2-homeworks/blob/bjs-53/Jasmine/results/sucessed_tasks_1.png)
 
 ## Требования по выполнению домашней работы
 
